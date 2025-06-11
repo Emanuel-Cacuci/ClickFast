@@ -67,6 +67,20 @@ h1 {
 }
 
 
+.aling{
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column-reverse;
+  align-items: self-end;
+  
+}
+
+.click{
+  padding: 20px;
+  width: 100px;
+
+}
+
 .color{
   color: rgb(245, 147, 0);
 }
