@@ -65,3 +65,20 @@ h1 {
 .flex:hover{
     color: rgb(255, 255, 255);
 }
+
+
+.color{
+  color: rgb(245, 147, 0);
+}
+
+.color2{
+  color: rgba(0, 0, 0, 0.315);
+}
+
+.color3{
+  color: rgba(0, 0, 0, 0.801);
+}
+
+.color4{
+  color: rgba(255, 0, 0, 0.781);
+}
