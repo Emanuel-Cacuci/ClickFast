@@ -1,0 +1,30 @@
+{
+  "name": "clickfast",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+
+  "scripts1": {
+    "test": "jest"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emanuel-Cacuci/ClickFast.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emanuel-Cacuci/ClickFast/issues"
+  },
+  "homepage": "https://github.com/Emanuel-Cacuci/ClickFast#readme",
+  "description": "",
+  "dependencies": {
+    "jsdom": "^26.1.0"
+  },
+  "devDependencies": {
+    "jest": "^30.0.0"
+  }
+}
