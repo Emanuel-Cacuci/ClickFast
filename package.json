@@ -5,11 +5,9 @@
   "scripts": {
     "test": "npx jest"
   },
-
   "scripts1": {
     "test": "jest"
   },
-
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Emanuel-Cacuci/ClickFast.git"
@@ -22,11 +20,10 @@
   "homepage": "https://github.com/Emanuel-Cacuci/ClickFast#readme",
   "description": "",
   "dependencies": {
+    "jest-environment-jsdom": "^30.0.0",
     "jsdom": "^26.1.0"
   },
   "devDependencies": {
     "jest": "^30.0.0"
   }
 }
-
-
