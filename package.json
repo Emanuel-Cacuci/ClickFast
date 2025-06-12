@@ -8,6 +8,10 @@
   "scripts1": {
     "test": "jest"
   },
+
+  "scripts3": {
+  "test": "npx jest --env=jsdom"
+},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Emanuel-Cacuci/ClickFast.git"
